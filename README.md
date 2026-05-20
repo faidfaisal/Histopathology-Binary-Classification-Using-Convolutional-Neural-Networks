@@ -84,15 +84,6 @@ We plan to combat this in future iterations by adding data augmentation methods,
 ## Conclusion
 This project demonstrates the potential of deep learning, specifically convolutional neural networks (CNNs), in enhancing model image analysis for breast cancer detection. By leveraging PyTorch and histopathology image data, we developed a model capable of distinguishing between cancerous and non-cancerous breast tissue with a 95.93% accuracy.
 
-## **AI Assistance and Acknowledgment**
-
-Some portions of this project's development, including code snippets, explanations, and debugging support, were assisted using OpenAI's ChatGPT. The tool was used primarily for:
-
-- Clarifying PyTorch syntax and architecture design  
-- Suggesting preprocessing and training techniques  
-- Improving Markdown formatting and documentation  
-
-All AI-generated content was reviewed, tested, and adapted as necessary to meet the goals of the project.
 
 ## References
 
